@@ -1,0 +1,24 @@
+body{
+    background-image: url("diya.jpg");
+    background-repeat: repeat-x repeat-y;
+    background-size: 100px 100px;
+    text-align:center;
+}
+
+#diya{
+    border: 50px dashed yellow;
+    width: 300px;
+}
+
+button{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
